@@ -1,9 +1,5 @@
 
  Hello GIT
-Todays date is 10 Feb 2023
+Todays date is 14 Feb 2023
 Hi Kajal 
-how are you doing
-I am fine
-what about you
-bvghf
-nbhjgxg
+hello world
